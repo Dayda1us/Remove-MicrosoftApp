@@ -1,7 +1,5 @@
 # Remove-MicrosoftApp
-
-## Description
-When you install a fresh copy of Windows 10/11, Windows will come with preinstalled Microsoft apps that you may not want. The script will allow you to remove any unwanted Microsoft apps that you do not use with the ability to.
+When you install a fresh copy of Windows 10/11, Windows will come with preinstalled Microsoft apps that you may not want. The script will allow you to remove any unwanted Microsoft apps that you do not use.
 
 ## ⚠️Disclaimer
 It is advised not to use PowerShell 7 to run this script as you'll receive a loop of error messages as shown below:
